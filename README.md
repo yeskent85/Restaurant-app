@@ -1,4 +1,10 @@
+# Author
+
+Nakoto Tanaka
+
 # Restaurant App
+
+This project is restaurant app built with react native
 
 BoilerPlate Used React Native [https://github.com/kaushiknishchay/React-Native-Boilerplate](https://github.com/kaushiknishchay/React-Native-Boilerplate)
 
